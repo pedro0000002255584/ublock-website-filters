@@ -1,0 +1,410 @@
+! 2021-09-17 https://www.facebook.com
+
+! News Feed -> Stories
+www.facebook.com##.l9j0dhe7.buofh1pr.cbu4d94t.j83agx80 > .cxgpxx05 > div > span
+www.facebook.com##.ihqw7lf3.l9j0dhe7 > .du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc.sv5sfqaa.obtkqiv7.du4w35lb.l9j0dhe7.rq0escxv > .tu18w1b4.cxgpxx05.sj5x9vvc.oygrvhab.rq0escxv.qan41l3s.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.du4w35lb.l9j0dhe7.stjgntxs.d76ob5m9.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs.q5bimw55 > .l9j0dhe7.buofh1pr.btwxx1t3.j83agx80 > div.t7l9tvuc.oi9244e8.qdtcsgvi.hpfvmrgz.pfnyh3mw.kb5gq1qc
+www.facebook.com##.ihqw7lf3.l9j0dhe7 > .du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc.sv5sfqaa.obtkqiv7.du4w35lb.l9j0dhe7.rq0escxv > .tu18w1b4.cxgpxx05.sj5x9vvc.oygrvhab.rq0escxv.qan41l3s.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.du4w35lb.l9j0dhe7.stjgntxs.d76ob5m9.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs.q5bimw55
+www.facebook.com##.ihqw7lf3.l9j0dhe7 > .du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc.sv5sfqaa.obtkqiv7.du4w35lb.l9j0dhe7.rq0escxv
+
+! News Feed -> Rooms
+www.facebook.com##.ecm0bbzt.e5nlhep0.l9j0dhe7.k4urcfbm.du4w35lb > .du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc.sv5sfqaa.obtkqiv7.du4w35lb.l9j0dhe7.rq0escxv
+www.facebook.com##.ecm0bbzt.e5nlhep0.l9j0dhe7.k4urcfbm.du4w35lb
+
+! News Feed -> Unseen Stories Indicators (Contacts)
+www.facebook.com##.nddp3pr2.j13r6fgp.hx8drtub.icc0peqn.m6uieof3.l9j0dhe7.w0hvl6rk.qjjbsfad.tvfksri0.cbu4d94t.j83agx80.nqmvxvec > object > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.s06bi357
+www.facebook.com##.nddp3pr2.j13r6fgp.hx8drtub.icc0peqn.m6uieof3.l9j0dhe7.w0hvl6rk.qjjbsfad.tvfksri0.cbu4d94t.j83agx80.nqmvxvec > object > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.georvekb.mlqo0dh0
+
+! News Feed -> Seen Stories Indicators (Contacts)
+www.facebook.com##.nddp3pr2.j13r6fgp.hx8drtub.icc0peqn.m6uieof3.l9j0dhe7.w0hvl6rk.qjjbsfad.tvfksri0.cbu4d94t.j83agx80.nqmvxvec .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp .s6kb5r3f.m74jz5tg
+
+! News Feed -> Unseen Stories Indicators (Posts)
+www.facebook.com##.qypqp5cg.q676j6op > object > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.georvekb.mlqo0dh0
+www.facebook.com##.qypqp5cg.q676j6op > object > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.s06bi357
+
+! News Feed -> Grouped Shares
+www.facebook.com##.n851cfcs.l6v480f0.maa8sdkg.s1tcr66n.aypy0576.ue3kfks5.pw54ja7n.uo3d90p7.l82x9zwi.wkznzc2l.dhix69tm.ni8dbmo4.stjgntxs.l9j0dhe7 > div > .monazrh9.h905i5nu.uo3d90p7.l82x9zwi.ni8dbmo4.stjgntxs > div > div > div > .l9j0dhe7 > .s1tcr66n.a8nywdso.osnr6wyh.rz4wbd8a.jktsbyx5.dhix69tm.oygrvhab.wkznzc2l.kvgmc6g5.a3bd9o3v.bkfpd7mw.jq4qci2q.j83agx80.m9osqain.bp9cbjyn > .stjgntxs.ni8dbmo4.buofh1pr.j83agx80.bp9cbjyn
+
+www.facebook.com##.l6v480f0.maa8sdkg.s1tcr66n.aypy0576.ue3kfks5.pw54ja7n.uo3d90p7.l82x9zwi.wkznzc2l.dhix69tm.ni8dbmo4.stjgntxs.l9j0dhe7 > div > .monazrh9.h905i5nu.uo3d90p7.l82x9zwi.ni8dbmo4.stjgntxs > div > div > div > .l9j0dhe7 > .s1tcr66n.a8nywdso.osnr6wyh.rz4wbd8a.jktsbyx5.dhix69tm.oygrvhab.wkznzc2l.kvgmc6g5.a3bd9o3v.bkfpd7mw.jq4qci2q.j83agx80.m9osqain.bp9cbjyn > .stjgntxs.ni8dbmo4.buofh1pr.j83agx80.bp9cbjyn
+
+! Profile - Seen Story Indicator
+www.facebook.com##.gjkn0k4t.m74jz5tg
+
+
+
+
+! Notifications Button
+www.facebook.com##div.oi9244e8.taijpn5t.datstx6m.j83agx80.bp9cbjyn:nth-of-type(1) > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .du4w35lb.l9j0dhe7.rq0escxv > .q676j6op.qypqp5cg.taijpn5t.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.tdjehn4e.oajrlxb2
+
+! Post -> Reactions
+www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > div > div > div > div > .monazrh9.h905i5nu.uo3d90p7.l82x9zwi.ni8dbmo4.stjgntxs > div > div > div > .l9j0dhe7 > .s1tcr66n.a8nywdso.osnr6wyh.rz4wbd8a.jktsbyx5.dhix69tm.oygrvhab.wkznzc2l.kvgmc6g5.a3bd9o3v.bkfpd7mw.jq4qci2q.j83agx80.m9osqain.bp9cbjyn > .stjgntxs.ni8dbmo4.buofh1pr.j83agx80.bp9cbjyn
+
+! Post -> Like/Comment/Share Buttons
+! (Looking for alternative for share button)
+www.facebook.com##div.ipjc6fyt.iuny7tx3.hyh9befq.n8tt0mok.buofh1pr.rj1gh0hx.hpfvmrgz.d2edcug0.g5gj957u.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Photo Viewer -> Reactions
+www.facebook.com##.l9j0dhe7.buofh1pr.cbu4d94t.j83agx80 > div > div > .l9j0dhe7 > .s1tcr66n.a8nywdso.osnr6wyh.rz4wbd8a.jktsbyx5.dhix69tm.oygrvhab.wkznzc2l.kvgmc6g5.a3bd9o3v.bkfpd7mw.jq4qci2q.j83agx80.m9osqain.bp9cbjyn > .stjgntxs.ni8dbmo4.buofh1pr.j83agx80.bp9cbjyn
+
+! Photo Viewer ->Like/Comment/Share Buttons
+www.facebook.com##.l9j0dhe7.buofh1pr.cbu4d94t.j83agx80 > div > div > .olo4ujb6.jmbispl3 > .hddg9phg.mysgfdmx.btwxx1t3.owycx6da.gs1a9yip.i1fnvgqd.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > div.ipjc6fyt.iuny7tx3.buofh1pr.rj1gh0hx.hpfvmrgz.d2edcug0.g5gj957u.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Photo Viewer -> Share Count
+www.facebook.com##.l9j0dhe7.buofh1pr.cbu4d94t.j83agx80 > div > div > .l9j0dhe7 > .s1tcr66n.a8nywdso.osnr6wyh.rz4wbd8a.jktsbyx5.dhix69tm.oygrvhab.wkznzc2l.kvgmc6g5.a3bd9o3v.bkfpd7mw.jq4qci2q.j83agx80.m9osqain.bp9cbjyn > .p1ueia1e.pfnyh3mw.j83agx80.bp9cbjyn > div.gtad4xkn > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .gmql0nx0.auili1gw.ow4ym5g4.dwo3fsh8.gpro0wi8.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.pq6dq46d.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .m9osqain.b1v8xokw.a3bd9o3v.gfeo3gy3.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d3f4x2em.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.lr9zc1uh.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0
+
+! Posts -> Share Count
+www.facebook.com##.iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .gmql0nx0.auili1gw.ow4ym5g4.dwo3fsh8.gpro0wi8.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.pq6dq46d.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .m9osqain.b1v8xokw.a3bd9o3v.gfeo3gy3.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d3f4x2em.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.lr9zc1uh.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0
+
+! Comment Reactions
+www.facebook.com##._6cuq
+
+! Topbar -> Notification Dots
+www.facebook.com##.k4urcfbm.qnrpqo6b.qt6c0cv9.jxrgncrl.jb3vyjys.taijpn5t.datstx6m.pq6dq46d.ljqsnud1.bp9cbjyn
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.byvelhso.j83agx80.bp9cbjyn > .k4urcfbm.taijpn5t.datstx6m.cbu4d94t.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2 > .l9j0dhe7 > .nezaghv5.h5g66v2i.pmk7jnqg
+
+! Profile - Story Indicator
+www.facebook.com##.gjkn0k4t.s06bi357
+!Questionable
+www.facebook.com##.cwj9ozl2.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.ecm0bbzt.ph5uu5jm.e5nlhep0.b3onmgus > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.georvekb.mlqo0dh0
+
+! Groups -> New For You
+www.facebook.com##div.btwxx1t3.j83agx80.gs1a9yip > .k4urcfbm > .k4urcfbm.l9j0dhe7.j83agx80 > .sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv
+
+! Posts & Photo Viewer -> Reply Like Button
+www.facebook.com##.lzcic4wl.btwxx1t3.j83agx80.dati1w0a.qt6c0cv9.rz4wbd8a.ecm0bbzt.l9j0dhe7 > .hv4rvrfc.stjgntxs.ni8dbmo4.buofh1pr.rj1gh0hx > .linoseic.l66bhrea.ozuftl9m.oygrvhab._6coi > li._6coj > .q9uorilb > .q9uorilb.l9j0dhe7 > span > .taijpn5t.buofh1pr.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.gokke00a.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.j83agx80.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.bp9cbjyn.oajrlxb2 > .gpro0wi8.l9j0dhe7.n3ffmt46.q9uorilb.nhd2j8a9.m9osqain
+
+! Posts & Photo Viewer -> Subreply Like Button
+www.facebook.com##.lzcic4wl.btwxx1t3.j83agx80.scb9dxdr.qt6c0cv9.rz4wbd8a.ecm0bbzt.l9j0dhe7 > .hv4rvrfc.stjgntxs.ni8dbmo4.buofh1pr.rj1gh0hx > .linoseic.l66bhrea.ozuftl9m.oygrvhab._6coi > li._6coj > .q9uorilb > .q9uorilb.l9j0dhe7 > span > .taijpn5t.buofh1pr.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.gokke00a.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.j83agx80.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.bp9cbjyn.oajrlxb2 > .gpro0wi8.l9j0dhe7.n3ffmt46.q9uorilb.nhd2j8a9.m9osqain
+
+! Groups -> Seen by Indicator
+www.facebook.com##.iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .m9osqain.b1v8xokw.a3bd9o3v.gfeo3gy3.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d3f4x2em.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.lr9zc1uh.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0
+! Questionable
+www.facebook.com##div.s95d9cuy.eh5mwn1z.pmk7jnqg.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79 > div > .oo9gr5id.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.q9uorilb.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .du4w35lb.pzggbiyp.l9j0dhe7.q9uorilb > .pzggbiyp > g > .s6kb5r3f.georvekb.mlqo0dh0
+
+! Groups -> Unseen Stories Indicator
+www.facebook.com##.s6kb5r3f.s06bi357
+
+! Photo-Like Video Viewer -> View Count
+www.facebook.com##._26fq
+
+! Photo-Like Video Viewer -> Like & Comment
+www.facebook.com##span._18vi
+
+! Photo-Like Video Viewer -> Up Next
+www.facebook.com##.dati1w0a.ihqw7lf3.hv4rvrfc.discj3wi.k4xni2cv.c3g1iek1.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.du4w35lb.l9j0dhe7.eg9m0zos.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs.q5bimw55
+
+! Watch -> Main Video -> Reactions
+www.facebook.com##.bp9cbjyn.j83agx80.buofh1pr.bkfpd7mw.ni8dbmo4.stjgntxs
+
+! Watch -> Other Videos -> Reactions
+www.facebook.com##.hzawbc8m.pipptul6.b1v8xokw.j5wam9gi.sq6gx45u.lr9zc1uh.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .bp9cbjyn.j83agx80
+
+! Page -> Sidebar Video -> Reactions
+www.facebook.com##.hk9dxy2p.cxmmr5t8.gjjqq4r6.hcukyx3x > .bp9cbjyn.j83agx80
+
+! Pages You Manage -> Notifications & Messages Buttons
+www.facebook.com##.j83agx80.qacpv2si.hv4rvrfc
+
+! Groups -> Suggested Groups
+www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > div > div > .k4urcfbm.l9j0dhe7.j83agx80 > .sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > .d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Groups -> Friends' Groups
+www.facebook.com##.enqfppq2.muag1w35.tgvbjcpo.buofh1pr.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Stories Content Page
+www.facebook.com##.bp9cbjyn.j83agx80.cbu4d94t.datstx6m.taijpn5t.pmk7jnqg.j9ispegn.kr520xx4.k4urcfbm
+
+! Notification from Other Acct Indicator (Top Right)
+!www.facebook.com##.xthkpp0z.bsodd3zb.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.ce1xcart.oo8ov1ci.g5oefq77.iwuwq2lu.gky8063y.pq6dq46d
+
+! Notification Dot near Account
+!www.facebook.com##.sgn1ogh8.evds00iz.p8dawk7l.abiwlrkh.lzcic4wl.tkr6xdv7.f1sip0of.esuyzwwr.i1ao9s8h.pmk7jnqg.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.pq6dq46d.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .gky8063y.d82f96u3.jiuqdcnw.omvj5yrc.ekzkrbhg.e9vueds3.pq6dq46d.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79
+!www.facebook.com##.gky8063y.d82f96u3.jiuqdcnw.omvj5yrc.ekzkrbhg.e9vueds3.pq6dq46d.p4hiznlx.j2ut9x2k.px9q9ucb.sibfvsnu
+www.facebook.com##.gky8063y
+
+! Facebook Recommendations
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Friend Requests$/i))
+facebook.com##div[data-pagelet^="FeedUnit_"]:has(div:has-text(/^Suggested Groups$/i))
+
+! Profile -> Friend Count
+www.facebook.com##.discj3wi.ll8tlv6m.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .oo9gr5id.b1v8xokw.a3bd9o3v.gfeo3gy3.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d3f4x2em.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.lr9zc1uh.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > a.lrazzd5p.gpro0wi8.oo9gr5id.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.nc684nl6.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2:nth-of-type(1)
+
+! Profile -> Friend List
+www.facebook.com##div:nth-of-type(3) > div > .sjgh65i0 > .k4urcfbm.l9j0dhe7.j83agx80 > .sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv
+
+! Profile -> Friend Icons
+www.facebook.com##.pybr56ya.ll8tlv6m.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .ll8tlv6m.cbu4d94t.j83agx80 > div
+
+! Profile -> Spacing After Hiding Friend Icons
+www.facebook.com##.discj3wi.ll8tlv6m.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+www.facebook.com##.pybr56ya.ll8tlv6m.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Profile Tooltip
+www.facebook.com##.art1omkt
+
+! Videos For You (Recommendation)
+www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > div > div > .k4urcfbm
+
+! News Feed (General Feed)
+www.facebook.com##.k4urcfbm.tr9rh885
+
+! Login Page Notification Counts
+www.facebook.com##._1gb4._51lp
+
+! Old Reactions/Comments/Shares Counter (Visible only when accessing public posts while logged out)
+www.facebook.com##._7a9u
+
+! Annoying Popups while checking pages logged out
+www.facebook.com###u_0_2e_se
+www.facebook.com###u_0_2d_iZ
+
+! Unseen Story Indicator on Birthdays
+www.facebook.com##.ggutxrqb.s06bi357
+
+! Reactions on View As Public View -- Profile
+www.facebook.com##.b3onmgus.j83agx80.bp9cbjyn
+
+
+
+
+!!!!!!!!!!!! Known Issues
+!! On Saved Page, folders are missing.
+
+!!!! TWITTER.COM
+
+! Home -> Trends For You & Who To Follow
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+
+! Tweet -> Relevant People
+twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-18bvks7.r-yfoy6g.css-1dbjc4n > .css-1dbjc4n
+
+! Hide Notifications
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(3) > .r-6416eg.r-o7ynqc.r-xyw6el.r-dnmrzs.r-1777fci.r-18u37iz.r-sdzlij.r-1awozwy.css-1dbjc4n
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(3)
+
+! Hide Explore
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
+
+! All Tweet Counts (Comments, Retweets, Likes, etc)
+twitter.com##.r-1udh08x.r-xoduu5.css-1dbjc4n
+
+! Tweet -> Retweets (Included Quoted) & Likes Buttons
+twitter.com##.r-1yzf0co.r-s1qlax.r-tzz3ar.r-18u37iz.r-13awgt0.r-5kkj8d.r-1efd50x.r-1kfrmmb.css-1dbjc4n
+
+! Feed -> Actions (Comment, Retweet, Like, Bookmark)
+twitter.com##.r-1mdbhws.r-1s2bzr4.r-1wtj0ep.r-18u37iz.r-1ta3fxp.css-1dbjc4n
+
+! Tweet -> Actions (Comment, Retweet, Like, Bookmark)
+twitter.com##.r-s1qlax.r-3qxfft.r-a2tzq0.r-h3s6tt.r-18u37iz.r-1ta3fxp.r-5kkj8d.r-1efd50x.r-1kfrmmb.r-qklmqi.r-rull8r.r-1ila09b.r-1oszu61.css-1dbjc4n
+
+! Tweet -> Tweet Activity
+twitter.com##.r-6416eg.r-o7ynqc.r-1yzf0co.r-1ny4l3l.r-18u37iz.r-1loqt21.r-5kkj8d.r-1efd50x.r-1kfrmmb.css-1dbjc4n.css-18t94o4.css-4rbku5
+
+! Profile -> Who To Follow, Topics to Follow
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .r-1f1sjgu.r-ymttw5.r-1wtj0ep.css-1dbjc4n
+
+! Testing (Topics)
+twitter.com##div:nth-of-type(14) > .r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+
+! Show More
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+
+! Who To Follow Blocks
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4
+
+! Follower Count
+twitter.com##.r-1w6e6rj.r-18u37iz.r-13awgt0.css-1dbjc4n
+
+! Distracting Dots (Experimental)
+twitter.com##.r-12rgx7y.r-lrvibr.r-1ld3bg.r-1gg5ah6.r-u8s1d.r-1ozsyd3.r-1yadl64.r-sdzlij.r-l5o3uw.css-1dbjc4n
+
+! Profile - Likes Tab
+twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(4) > .r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5
+
+! Notification Dot for Accounts
+twitter.com##.r-1t7zxhp.r-lrvibr.r-1qcuhsn.r-1c95alr.r-u8s1d.r-k5y9r7.r-rs99b7.r-1phboty.r-sdzlij.r-f6ebdl.r-l5o3uw.css-1dbjc4n
+
+! Notification Count for Accounts
+twitter.com##.r-qvutc0.r-3s2u2q.r-lrvibr.r-i61hcz.r-19u6a5r.r-1cwl3u0.r-1777fci.r-z80fyv.r-b88u0q.r-1b43r93.r-37j5jr.r-1q142lx.r-6koalj.r-jwli3a.r-1tjplnt.r-rs99b7.r-1phboty.r-sdzlij.r-f6ebdl.r-l5o3uw.r-1awozwy.css-901oao
+
+
+
+
+
+! 2021-09-17 https://www.instagram.com
+
+! Home -> Stories
+www.instagram.com##.VideM.IPQK5.zGtbP
+
+! Home -> Suggested Accounts
+www.instagram.com##._8UZ6e
+
+! Unseen Story Indicator - Post
+www.instagram.com##.mrq0Z.h5uC0.RR-M- > .CfWVH
+
+! Stories
+www.instagram.com##.szopg
+
+! Unseen Story Indicator - Profile
+www.instagram.com##.CfWVH
+
+! Like Count (Photo)
+www.instagram.com##.Nm9Fw
+
+! Like Button
+www.instagram.com##.fr66n > .wpO6b
+
+! Message Button
+www.instagram.com##._5e4p > .wpO6b
+
+! Comment Button
+www.instagram.com##._15y0l > .wpO6b
+
+! Like Button - Word (Comment)
+www.instagram.com##button.FH9sR:nth-of-type(1)
+
+! Like Button - Heart (Comment)
+www.instagram.com##.ZQScA.wpO6b > .QBdPU > span > ._8-yf5
+
+! Photo Hover & Like & Comments Count
+www.instagram.com##.-V_eO
+
+! Notification Button
+www.instagram.com##.kIKUG._0ZPOP > ._8-yf5
+
+! Explore Button
+www.instagram.com##[href="/explore/"] > ._8-yf5
+
+! Show More Button (For Suggested Accounts Toggle in Profile)
+www.instagram.com##._1OSdk.mLCHD
+
+! Profile Counts (No. of Posts, Followed, Followers)
+www.instagram.com##.k9GMp
+
+! All Comments
+www.instagram.com##.EtaWk
+! Extra (Feed)
+www.instagram.com##article.ePUX4.Tgarh.SgTZ1.L_LMM.M9sTE.bLWKA._8Rm4L > ._4EzTm.eGOV_.IwRSH.Igw0E > ._4EzTm.eGOV_.IwRSH.Igw0E > .eo2As > .ygqzn.EDfFK > .vwCYk.ybXk5.eGOV_.IwRSH.Igw0E
+! Extra (Photo)
+www.instagram.com##.vwCYk.ybXk5.eGOV_.IwRSH.Igw0E
+
+! Comment Bar
+www.instagram.com##._JgwE.sH9wk
+
+
+
+
+! 2021-09-17 https://www.tiktok.com
+
+! Profile - Count Infos
+www.tiktok.com##.count-infos
+
+! Gallery View Counts
+www.tiktok.com##.video-count.jsx-2677948358
+
+! Profile Tooltip - Count Infos
+www.tiktok.com##.follower-like-container.jsx-3372886958.jsx-3541974203
+
+! Video - Like & Comment Buttons (with Counts)
+www.tiktok.com##.action-left.jsx-2626560996
+
+! Video (Feed View) -> Like & Comment Buttons (with Counts)
+www.tiktok.com##.vertical.item-action-bar.pc-action-bar.jsx-168045128
+
+! Video -> Comments Like Button & Count
+www.tiktok.com##.like-container.jsx-1619268457
+
+! Home -> Unseen Story Indicator
+www.tiktok.com##.live-circle.jsx-260838931
+
+! Home -> Suggested Accounts
+www.tiktok.com##.hidden-bottom-line.user-list.jsx-3696278927
+
+! Home -> Discover Topics
+www.tiktok.com##.discover-list-container.jsx-3696278927
+
+! Home -> Live Button
+www.tiktok.com##a.nav-item.jsx-3696278927:nth-of-type(3)
+
+! 
+www.tiktok.com##.jsx-3087598692
+
+! TikTok Feed
+www.tiktok.com##.em-follow.video-feed-item.jsx-2526877248.jsx-639256162
+
+! Comments
+www.tiktok.com##.comment-container.jsx-3131092411
+
+! Comment Composer
+www.tiktok.com##.comment-post-outside-container.jsx-3131092411
+
+! Suggested Accounts (Profile)
+www.tiktok.com##.suggested-accounts.jsx-2333069902
+
+! Videos & Liked Tab
+www.tiktok.com##.video-feed-tab.jsx-128631813
+
+
+
+
+! 2021-09-17 https://www.youtube.com
+
+! Video -> Like/Dislike
+www.youtube.com###container > .ytd-sentiment-bar-renderer.style-scope
+www.youtube.com###sentiment > .ytd-sentiment-bar-renderer.style-scope
+
+! Video -> Like/Dislike Button
+www.youtube.com##.ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
+
+! Video Comments Like Count
+www.youtube.com###vote-count-middle
+
+! Video Comments Heart by Creator Indicator
+www.youtube.com###creator-heart-button
+
+! Video -> Topics (Unnecessary)
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+
+! Notification Button
+www.youtube.com##.notification-button-style-type-default.ytd-notification-topbar-button-renderer.style-scope
+
+! Other Top Right Buttons (Upload/YouTube Apps)
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope > .ytd-topbar-menu-button-renderer.style-scope
+
+! Sidebar -> More From YouTube
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! Sidebar -> Subscriptions
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+
+! 2021-09-17 https://www.youtube.com
+!www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+
+! Home -> Topic Carousel
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+
+! Home -> Videos
+www.youtube.com##.ytd-rich-grid-media.style-scope
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+
+! Mini-Sidebar -> Explore
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+
+! Sidebar -> Explore & Report History
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+
+! Video Comments
+www.youtube.com##.ytd-comments.style-scope
+
+! Video Sidebar Recommendations
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+
+! Live Chat
+www.youtube.com###chat
+
+!  Switch to Google Chrome Pop-up in Google Site
+||ogs.google.com/u/0/widget/callout/sid?prid=19025500&pgid=19025497&puid=d66d4067bb7c03ee&dc=1&bc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en$subdocument
+
+! 2021-09-21 https://www.facebook.com
+
